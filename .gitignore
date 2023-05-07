@@ -2,3 +2,4 @@ real_estate/
 db.sqlite3
 manage.py
 packages.txt
+.gitignore
